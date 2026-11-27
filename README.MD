@@ -1,5 +1,10 @@
-#CSIT web
+# CSIT web
 ## Introduction
 * html intro 
-- trswt
-'''we are studing html'''
+- test
+```
+we are learning html
+```
+[Google](https://.google.com)
+![](csiit.jpg)
+![alt](csiit.jpg)
